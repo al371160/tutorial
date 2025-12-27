@@ -1,3 +1,5 @@
+import '../styles/global.css';
+
 ---
 title: 'Merry Christmas'
 pubDate: 2025-12-25
